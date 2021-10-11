@@ -33,13 +33,10 @@ public class BallMovement_Prob5 : MonoBehaviour
     void FixedUpdate()
     {
     }
-<<<<<<< Updated upstream:Assets/Scripts/BallMovement.cs
-=======
 
     void SetTargetPosition()
     {
         targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         isMoving = true;    
     }
->>>>>>> Stashed changes:Assets/Scripts/BallMovement_Prob5.cs
 }
