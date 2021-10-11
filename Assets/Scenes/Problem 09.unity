@@ -203,7 +203,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> Stashed changes
 =======
   m_WasSpriteAssigned: 1
 >>>>>>> Stashed changes
@@ -228,7 +232,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &305002373
@@ -338,6 +345,9 @@ Transform:
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -432,7 +442,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> Stashed changes
 =======
   m_WasSpriteAssigned: 1
 >>>>>>> Stashed changes
@@ -457,7 +471,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1001 &1263976456
@@ -737,6 +754,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -831,7 +851,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> Stashed changes
 =======
   m_WasSpriteAssigned: 1
 >>>>>>> Stashed changes
@@ -938,7 +962,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &1594578542
@@ -1048,6 +1075,9 @@ Transform:
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1142,7 +1172,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> Stashed changes
 =======
   m_WasSpriteAssigned: 1
 >>>>>>> Stashed changes
@@ -1167,7 +1201,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &1720260435
@@ -1216,6 +1253,9 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1233,6 +1273,12 @@ GameObject:
   - component: {fileID: 1859012840}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1859012846}
+  - component: {fileID: 1859012845}
+  - component: {fileID: 1859012844}
+>>>>>>> Stashed changes
 =======
   - component: {fileID: 1859012846}
   - component: {fileID: 1859012845}
@@ -1326,7 +1372,11 @@ SpriteRenderer:
   m_SortingOrder: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Sprite: {fileID: 21300000, guid: 35fa374b75ed15d43b3a3a4f20692f59, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: 902fa21516b101f40a51921048312415, type: 3}
+>>>>>>> Stashed changes
 =======
   m_Sprite: {fileID: 21300000, guid: 902fa21516b101f40a51921048312415, type: 3}
 >>>>>>> Stashed changes
@@ -1342,7 +1392,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> Stashed changes
 =======
   m_WasSpriteAssigned: 1
 >>>>>>> Stashed changes
@@ -1367,7 +1421,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!114 &1859012844
@@ -1410,6 +1467,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreValue: {fileID: 1263976457}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

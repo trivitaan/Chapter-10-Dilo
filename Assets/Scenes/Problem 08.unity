@@ -1036,11 +1036,15 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
   speed: 1
 >>>>>>> Stashed changes
 =======
   speed: 1
+=======
+  speed: 1
+>>>>>>> Stashed changes
 =======
   speed: 1
 >>>>>>> Stashed changes
@@ -1071,6 +1075,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreValue: {fileID: 1263976457}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
