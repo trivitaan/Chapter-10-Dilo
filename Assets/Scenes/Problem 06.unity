@@ -861,6 +861,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  speed: 3
+>>>>>>> Stashed changes
 =======
   speed: 3
 >>>>>>> Stashed changes

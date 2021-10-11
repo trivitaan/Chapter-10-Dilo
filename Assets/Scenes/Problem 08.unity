@@ -1035,11 +1035,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
   speed: 1
 >>>>>>> Stashed changes
 =======
   speed: 1
+=======
+  speed: 1
+>>>>>>> Stashed changes
 --- !u!114 &1859012845
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1066,6 +1070,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: {fileID: 1263976457}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1 &2101365392
 GameObject:
